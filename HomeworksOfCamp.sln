@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_3_Homework_2", "Day_3_Homework_2\Day_3_Homework_2.csproj", "{4D867651-7E7F-41AF-9A15-C96297A8E25D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_3_Homework_2", "Day_3_Homework_2\Day_3_Homework_2.csproj", "{4D867651-7E7F-41AF-9A15-C96297A8E25D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{8F9893D0-A8CB-44F7-8754-E3D1BB89AD49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4D867651-7E7F-41AF-9A15-C96297A8E25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D867651-7E7F-41AF-9A15-C96297A8E25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D867651-7E7F-41AF-9A15-C96297A8E25D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F9893D0-A8CB-44F7-8754-E3D1BB89AD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F9893D0-A8CB-44F7-8754-E3D1BB89AD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F9893D0-A8CB-44F7-8754-E3D1BB89AD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F9893D0-A8CB-44F7-8754-E3D1BB89AD49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
