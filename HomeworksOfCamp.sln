@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_3_Homework_2", "Day_3_Homework_2\Day_3_Homework_2.csproj", "{4D867651-7E7F-41AF-9A15-C96297A8E25D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{8F9893D0-A8CB-44F7-8754-E3D1BB89AD49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{8F9893D0-A8CB-44F7-8754-E3D1BB89AD49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{880171C0-AE19-4801-9533-321554166FFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8F9893D0-A8CB-44F7-8754-E3D1BB89AD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F9893D0-A8CB-44F7-8754-E3D1BB89AD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F9893D0-A8CB-44F7-8754-E3D1BB89AD49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{880171C0-AE19-4801-9533-321554166FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880171C0-AE19-4801-9533-321554166FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880171C0-AE19-4801-9533-321554166FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880171C0-AE19-4801-9533-321554166FFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
